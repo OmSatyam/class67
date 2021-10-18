@@ -2,3 +2,4 @@ noodles
 spices
 vegetables
 water
+oil
